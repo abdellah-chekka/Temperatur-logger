@@ -1,6 +1,6 @@
 ## Temperaturlogger - Technisches Monitoring-System
 
-Entwickelt von Abdellah Chekka als Aufgabe an der Universität hochgeladen für meine Bewerbung für die Ausbildungsstelle als Fachinformatiker für Anwendungsentwicklung bei VW Infotainment.
+Entwickelt von Abdellah Chekka als Aufgabe an der Universität hochgeladen für meine Bewerbung für die Ausbildungsstelle als Fachinformatiker für Anwendungsentwicklung.
 
 ## Über das Projekt
 
